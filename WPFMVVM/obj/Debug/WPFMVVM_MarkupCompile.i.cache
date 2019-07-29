@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\vemal\source\repos\WPFMVVM\WPFMVVM\obj\Debug\
+C:\Users\vemal\source\repos\WpfWithMVVM\WPFMVVM\obj\Debug\
 WPFMVVM
 none
 false
 DEBUG;TRACE
-C:\Users\vemal\source\repos\WPFMVVM\WPFMVVM\App.xaml
-11151548125
+C:\Users\vemal\source\repos\WpfWithMVVM\WPFMVVM\App.xaml
+3-1791676760
 
-6834194246
-121-1448138686
-MainWindow.xaml;
+13-1096311306
+121533585295
+Views\FirstChildView.xaml;Views\SecondChildView.xaml;Views\ShellView.xaml;
 
 True
 

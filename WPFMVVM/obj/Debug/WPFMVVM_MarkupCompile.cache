@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\vemal\source\repos\WpfWithMVVM\WPFMVVM\App.xaml
-11151548125
+3-1791676760
 
-6834194246
+12346715242
 121533585295
-MainWindow.xaml;
+Views\FirstChildView.xaml;Views\SecondChildView.xaml;Views\ShellView.xaml;
 
-True
+False
 
